@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "zeus",
+      "empresa": "Intelix",
+      "email": "zeus@corre.com",
+      "telefono": "102984108294",
+      "notas": "alfjasfkljsa",
+      "id": 2
+    }
+  ]
+}
